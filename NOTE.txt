@@ -1,0 +1,2 @@
+New text file is created in web github. and it is pull into local folder in using the GIT PULL command. 
+To modify the file in local folder is updated by Step-1 GIT ADD FILE_NAME.EXTENSION   Step-2 GIT COMMIT -m "MESSAGE "  STEP-3  GIT PUSH 
