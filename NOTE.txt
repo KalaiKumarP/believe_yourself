@@ -1,2 +1,14 @@
 New text file is created in web github. and it is pull into local folder in using the GIT PULL command. 
 To modify the file in local folder is updated by Step-1 GIT ADD FILE_NAME.EXTENSION   Step-2 GIT COMMIT -m "MESSAGE "  STEP-3  GIT PUSH 
+
+Step-1   
+    To connect web GitHub to localFolder by using visual Studio code Terminal
+    GIT CLONE URL       //url is github folder url 
+Step-2
+    To Add a file in web github by localFolder 
+    GIT ADD FILE_NAME     OR      
+    GIT ADD  ..           // to ADD all the new FILE to web github
+    If we give add mean the localfile is go the Stage area and 
+    GIT COMMIT -m " Message"       //to move the file in stage area to localGITHUB Folder 
+    GIt PUSh                      // TO update the change in local folder to web github
+    
